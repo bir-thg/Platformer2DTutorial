@@ -53,5 +53,8 @@
         "temp/":true,
         "Temp/":true
     },
-    "dotnet.defaultSolution": "2DPlatformerBeginnerTutorial.sln"
+    "dotnet.defaultSolution": "2DPlatformerBeginnerTutorial.sln",
+    "cSpell.words": [
+        "Behaviour"
+    ]
 }
